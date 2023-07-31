@@ -42,11 +42,11 @@
 }
 
 .tab-background{
-  background-color: rgba( 255, 255, 255, 0.9) !important;
+  background-color: rgba( 66, 65, 76, 0.9) !important;
 }
 
 .tabbrowser-tab:hover > .tab-stack > .tab-background{
-  background-color: rgba( 255, 255, 255, 0.4) !important;
+  background-color: rgba(66, 65, 76, 0.9) !important;
 }
 
 
@@ -82,3 +82,10 @@
   padding-top: 1px !important;
   padding-bottom: 1px !important;
 }
+
+.titlebar-buttonbox-container {
+    position: relative !important;
+    top: 50px !important;
+}
+
+
